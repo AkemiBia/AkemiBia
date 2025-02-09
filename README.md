@@ -20,5 +20,5 @@
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/website-black)]()
-[![Static Badge](https://img.shields.io/badge/linkedin-black)]()
+[![Static Badge](https://img.shields.io/badge/twitter-black)]()
 </div>
