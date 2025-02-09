@@ -27,7 +27,7 @@
   <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://imgur.com/225744a4-4f9f-43c3-8c58-fa078a1da05e" alt="java-coffee-cup-logo"/>
+             <img style="width: 100%; max-width: 300px;" src="https://i.imgur.com/05I9Jlf.png" alt="React-logo"/>
             <br>React 
         </td>
         <td align="center">
