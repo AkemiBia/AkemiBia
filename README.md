@@ -22,3 +22,34 @@
 [![Static Badge](https://img.shields.io/badge/website-black)]()
 [![Static Badge](https://img.shields.io/badge/linkedin-black)]()
 </div>
+## 🛠️ Working with: 
+
+  <table align="center">
+    <tr>
+        <td align="center">
+             <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/56735c1b-a91d-4f40-8dd7-b9276f44b004" alt="java-coffee-cup-logo"/>
+            <br>Java 
+        </td>
+        <td align="center">
+            <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/1f7a1509-5ce4-4688-979f-b00ad9a6954c" alt="php-logo"/>
+            <br>PHP
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;"src="https://github.com/user-attachments/assets/ae7f17c5-fc6a-4d8f-a2a2-c60e96b95a4c" alt="csharp-logo"/>
+            <br>C#
+        </td>
+       <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/c0a5f3a6-9e44-4551-aa95-2311c1422167" alt="cplus-logo"/>
+            <br>C++
+        </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/b53324b7-7f74-46e6-a5c0-635e4e5c1849" alt="javascript-logo"/>
+            <br>Javascript
+        </td>
+         </td>
+        <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
+            <br>SQL
+        </td>
+    </tr>
+</table>
